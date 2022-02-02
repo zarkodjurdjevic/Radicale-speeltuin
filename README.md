@@ -1,4 +1,17 @@
-# Radicale-speeltuin
-Alle Codes/Documentatie van dit project
+# Radicale-Kunstspeeltuin
+  
+Team:
 
-trello: https://trello.com/b/XCkwITMb/kunstspeeltuin
+Software Developer:
+- Zarko Djurdjevic
+
+Media vormgeving:
+- Valentijn van Harn 
+- Quinty Keijser 
+- Suus Harsveld
+
+Ruimtelijke vormgeving:
+- Estelle de Vries 
+- Rosa Hoorn 
+- Bente Koelemij
+

@@ -29,17 +29,17 @@ We zijn als groep in het begin eerst gaan overleggen over de kunstenaar die wij 
 <img src="afb/groen.PNG"> 
 
 # Scrum
--<a href="https://github.com/zarkodjurdjevic/Radicale-speeltuin">Github</a><br>
--<a href="https://trello.com/b/XCkwITMb/kunstspeeltuin">Trello</a><br>
--<a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a>
+- <a href="https://github.com/zarkodjurdjevic/Radicale-speeltuin">Github</a><br>
+- <a href="https://trello.com/b/XCkwITMb/kunstspeeltuin">Trello</a><br>
+- <a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a>
 
 # Portfolio 
 
--<a href="https://docs.google.com/document/d/1hCveO-7EAZedcYO3DysvVb0z7mpZvyoX/edit">Projectplan</a><br>
--<a href="https://docs.google.com/document/d/1oaycnSQfPXomHYmauvDEeS9yCDJWoWNj/edit">Test rapport</a><br>
--<a href="https://docs.google.com/document/d/1vB6WLB8IhdDp84rUWlnXMPXvBxOLBdAk/edit">Bronnenlijst</a><br>
--<a href="https://docs.google.com/document/d/1vljqF8ukAlPbvm_FWE8nXorQXtHkCYCh/edit">Gebruik sensor</a><br>
--<a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a><br>
--<a href="https://youtu.be/tOmt9oBfyxc">Video usertest</a><br>
+- <a href="https://docs.google.com/document/d/1hCveO-7EAZedcYO3DysvVb0z7mpZvyoX/edit">Projectplan</a><br>
+- <a href="https://docs.google.com/document/d/1oaycnSQfPXomHYmauvDEeS9yCDJWoWNj/edit">Test rapport</a><br>
+- <a href="https://docs.google.com/document/d/1vB6WLB8IhdDp84rUWlnXMPXvBxOLBdAk/edit">Bronnenlijst</a><br>
+- <a href="https://docs.google.com/document/d/1vljqF8ukAlPbvm_FWE8nXorQXtHkCYCh/edit">Gebruik sensor</a><br>
+- <a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a><br>
+- <a href="https://youtu.be/tOmt9oBfyxc">Video usertest</a><br>
 
 

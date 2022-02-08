@@ -22,5 +22,12 @@ We hebben de opdracht gekregen om met een multidisciplinair team van SD RV EN MV
 We zijn als groep in het begin eerst gaan overleggen over de kunstenaar die wij gaan uitkiezen als inspirattiebron voor onze kamer. Uiteindelijk hebben wij gekozen voor de kunstenaar Daan Rosegaarde. Daan Rosegaarde heeft veel interactieve kunstwerken die te maken hebben met licht en geluid dus besloten wij ook zoiets te gebruiken voor onze interactieve ruimte. De kunstwerken van Daan Rosegaarde die laten vaak de bezoeker een natuurlijke beleving beleven dus besloten wij om onze ruimte een natuurlijke uiterlijk te geven en interactie. Wij hebben besloten om een ruimte te maken die jou de ervaring geeft dat je staat in een natuurlijk gebied met daarin allemaal plastic afval flesjes op de grond. In het midden van de ruimte hebben wij een afvalbak met daarin eem led strip die een smog/grijze kleur heeft de reden van die kleur is dat het een soort vervuild beeld moet geven aan de bezoeker de interactie is daarom ook dat de bezoekers de mogelijkheid krijgen om de flesjes in de afvalbak te zetten en dan veranderd de kleur tijdelijk naar groen om te laten zien aan de bezoekers dat ze iets goeds hebben gedaan.
 
 # Scrum
--<a href="https://github.com/zarkodjurdjevic/Radicale-speeltuin">Github</a>
--<a href="https://trello.com/b/XCkwITMb/kunstspeeltuin">Trello</a>
+<a href="https://github.com/zarkodjurdjevic/Radicale-speeltuin">Github</a><br>
+<a href="https://trello.com/b/XCkwITMb/kunstspeeltuin">Trello</a>
+<a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a>
+
+# Portfolio 
+<a href="https://docs.google.com/document/d/1oaycnSQfPXomHYmauvDEeS9yCDJWoWNj/edit">Test rapport</a>
+<a href="https://docs.google.com/document/d/1vB6WLB8IhdDp84rUWlnXMPXvBxOLBdAk/edit">Bronnenlijst</a>
+<a href="https://docs.google.com/document/d/1vljqF8ukAlPbvm_FWE8nXorQXtHkCYCh/edit">Gebruik sensor</a>
+<a href="https://docs.google.com/document/d/1lNAVD8JfFarutsFI8JVa0FkXA3u4Xe0D/edit">Logboek</a>

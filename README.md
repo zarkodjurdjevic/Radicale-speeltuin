@@ -35,7 +35,7 @@ We zijn als groep in het begin eerst gaan overleggen over de kunstenaar die wij 
 
 # Portfolio 
 
-<a href="https://docs.google.com/document/d/1hCveO-7EAZedcYO3DysvVb0z7mpZvyoX/edit">Projectplan</a><br>
+<a href="https://docs.google.com/document/d/1crthy37T1S-ZqULfVPIN8ollX-GYOEO2/edit">Projectplan</a><br>
 <a href="https://docs.google.com/document/d/1oaycnSQfPXomHYmauvDEeS9yCDJWoWNj/edit">Test rapport</a><br>
 <a href="https://docs.google.com/document/d/1vB6WLB8IhdDp84rUWlnXMPXvBxOLBdAk/edit">Bronnenlijst</a><br>
 <a href="https://docs.google.com/document/d/1vljqF8ukAlPbvm_FWE8nXorQXtHkCYCh/edit">Gebruik sensor</a><br>

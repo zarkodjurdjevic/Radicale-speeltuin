@@ -23,11 +23,11 @@ We zijn als groep in het begin eerst gaan overleggen over de kunstenaar die wij 
 
 
 # Input
-Voor de input heb ik besloten om een arduino UNO te gebruiken omdat je daarmee veel kan varieren en veel verschillende mogelijkheden hebt bij het verbinden van verschillende soorten apparatuur. De sensor die ik heb gebruikt is de VL53L0X laser ranging sensor. De functionaliteit die de sensor heeft is dat het beweging/onderbrekking detecteerd van de bezoeker die het plastic flesje erin doen.
+Voor de input heb ik besloten om een arduino UNO te gebruiken omdat je daarmee veel kan variëren en veel verschillende mogelijkheden hebt bij het verbinden van verschillende soorten apparatuur. De sensor die ik heb gebruikt is de VL53L0X laser ranging sensor. De functionaliteit die de sensor heeft is dat het beweging/onderbrekking detecteerd van de bezoeker die het plastic flesje erin doet. 
 <img src="afb/grijs.PNG">
 
 # Output
-Voor de output heb ik gekozen voor de NEOPIXEL led strip. De functie die de led strip heeft is dat het bij het detecteren van beweging en onderbrekking de led  strip kleur veranderd van de kleur grijs naar tijdelijk groen.
+Voor de output heb ik gekozen voor de NEOPIXEL led strip. De functie die de led strip heeft is dat het bij het detecteren van beweging en onderbrekking de led  strip kleur veranderd van de kleur grijs naar tijdelijk groen. Met deze output vertoning willen wij de bezoekers duidelijk maken dat waar ze nu mee bezig zijn(flesje in afvalbak zetten) dat het iets goed is en dat wij het als soort automatisme voor de bezoekers om op die manier ook in het dagelijks leven een bijdrage kunnen hebben tegen de natuurlijke vervuiling.
 <img src="afb/groen.PNG"> 
 
 # Scrum
